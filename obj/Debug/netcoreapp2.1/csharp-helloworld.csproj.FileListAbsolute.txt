@@ -1,0 +1,11 @@
+/home/jonathan/Desktop/jywkim/csharp-helloworld/bin/Debug/netcoreapp2.1/csharp-helloworld.deps.json
+/home/jonathan/Desktop/jywkim/csharp-helloworld/bin/Debug/netcoreapp2.1/csharp-helloworld.runtimeconfig.json
+/home/jonathan/Desktop/jywkim/csharp-helloworld/bin/Debug/netcoreapp2.1/csharp-helloworld.runtimeconfig.dev.json
+/home/jonathan/Desktop/jywkim/csharp-helloworld/bin/Debug/netcoreapp2.1/csharp-helloworld.dll
+/home/jonathan/Desktop/jywkim/csharp-helloworld/bin/Debug/netcoreapp2.1/csharp-helloworld.pdb
+/home/jonathan/Desktop/jywkim/csharp-helloworld/obj/Debug/netcoreapp2.1/csharp-helloworld.csprojAssemblyReference.cache
+/home/jonathan/Desktop/jywkim/csharp-helloworld/obj/Debug/netcoreapp2.1/csharp-helloworld.csproj.CoreCompileInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-helloworld/obj/Debug/netcoreapp2.1/csharp-helloworld.AssemblyInfoInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-helloworld/obj/Debug/netcoreapp2.1/csharp-helloworld.AssemblyInfo.cs
+/home/jonathan/Desktop/jywkim/csharp-helloworld/obj/Debug/netcoreapp2.1/csharp-helloworld.dll
+/home/jonathan/Desktop/jywkim/csharp-helloworld/obj/Debug/netcoreapp2.1/csharp-helloworld.pdb
